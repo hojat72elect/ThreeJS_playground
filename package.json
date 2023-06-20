@@ -5,7 +5,7 @@
     "start": "webpack serve --open",
     "build-babel": "babel src -d dist",
     "build-webpack": "webpack --config webpack.config.js",
-    "build": "npm run build-babel && npm run build-webpack"
+    "reload": "npm run build-babel && npm run build-webpack && npm run start"
   },
   "devDependencies": {
     "@babel/cli": "^7.22.5",
