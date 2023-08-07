@@ -16,3 +16,9 @@ Build a stack of boxes. Boxes are coming in from left and right and you have to 
 Main developer: [Hojat Ghasemi](https://hojat72elect.github.io/)
 
 This game was heavily inspired by [Stack](https://play.google.com/store/apps/details?id=com.ketchapp.stack&hl=en&gl=US).
+
+[this](https://youtu.be/2AcTRqVoI7A) tutorial can help a bit as well.
+
+### Development plans:
+
+1- Migrate to Ionic.
